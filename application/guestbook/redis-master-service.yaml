@@ -1,4 +1,4 @@
-application/guestbook/redis-master-service.yaml 
+#application/guestbook/redis-master-service.yaml 
 
 apiVersion: v1
 kind: Service
