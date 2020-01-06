@@ -1,4 +1,4 @@
-application/guestbook/frontend-service.yaml 
+#application/guestbook/frontend-service.yaml 
 
 apiVersion: v1
 kind: Service
