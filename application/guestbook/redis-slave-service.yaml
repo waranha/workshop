@@ -1,4 +1,4 @@
-application/guestbook/redis-slave-service.yaml 
+#application/guestbook/redis-slave-service.yaml 
 
 apiVersion: v1
 kind: Service
